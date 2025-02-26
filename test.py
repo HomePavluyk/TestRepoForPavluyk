@@ -5,5 +5,7 @@ print("commit4")
 print("commit5")
 if 1+1:
     print("Sobaka")
-else:
+elif:
     print("cat")
+else:
+    print("fish")
