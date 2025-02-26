@@ -20,3 +20,5 @@ else:
 >>>>>>> Stashed changes:test.py
 hello
 Poka
+for i in range():
+    a = b
