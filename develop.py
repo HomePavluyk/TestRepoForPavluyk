@@ -22,3 +22,4 @@ hello
 Poka
 for i in range():
     a = b
+print("Да уж приехали")
